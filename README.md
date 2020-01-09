@@ -13,4 +13,12 @@ Hence the sliding mode control is a two part controller design. The first part i
 - __Matlab and Simulink__
 ---
 
+## SMC in action
+![align = "center"](smc_demo.gif)
+
+Note - The SMC controller is not working perfectly as expected .
 - The detailed description about the project can be found [here](https://drive.google.com/open?id=0B6cvaukIjPj5NUVWb0lETkVGZWhBT2pCNEo1Mm1sM0hxSnY4)
+
+### References -
+1.S.Chakrabarty and B. Bandyopadhyay , “Minimum Ultimate Band Design of Discrete Sliding Mode Control” , Asian journal of control 17 (5), pp. 1889-1897 , 2015 <br><br>
+2.Paulo Coelho and Urbano Nunes , “ Path-Following Control of Mobile Robots in Presence of Uncertainties “ IEEE Transactions on Robotics , VOL 21 (2) ,pp. 252-261 , 2005
