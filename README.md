@@ -1,8 +1,16 @@
 #  Design of Sliding Mode Controller for Two-wheeled Mobile Robot - Path Tracking
 ---
-## Overview
 
 ## What is Sliding Entered Variable(SMC) Method ?
 Sliding mode control (SMC) is a nonlinear control technique featuring remarkable properties
 of accuracy, robustness, and easy tuning and implementation.SMC systems are designed to drive the system states onto a particular surface in the state space, named sliding surface. Once the sliding surface is reached, sliding mode control keeps the states on the close neighbourhood of the sliding surface.
+Hence the sliding mode control is a two part controller design. The first part involves the design of a sliding surface so that the sliding motion satisfies design specifications. The second is concerned with the selection of a control law that will make the switching surface attractive to the system state .
 
+<img  width = "300" height = "300" src="smc_image.png?raw=true/300/300/">
+---
+
+## Dependencies
+- __Matlab and Simulink__
+---
+
+- The detailed description about the project can be found [here](https://drive.google.com/open?id=0B6cvaukIjPj5NUVWb0lETkVGZWhBT2pCNEo1Mm1sM0hxSnY4)
