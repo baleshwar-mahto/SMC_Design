@@ -17,6 +17,7 @@ Hence the sliding mode control is a two part controller design. The first part i
 ![](smc_demo.gif)
 
 Note - The SMC controller is not working perfectly as expected .
+
 ---
 - The detailed description about the project can be found [here](https://drive.google.com/open?id=0B6cvaukIjPj5NUVWb0lETkVGZWhBT2pCNEo1Mm1sM0hxSnY4)
 
