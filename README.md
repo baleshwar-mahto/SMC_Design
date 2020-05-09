@@ -21,8 +21,7 @@ Note - The SMC controller is not working perfectly as expected .<br><br>
 <br>
 
 ---
-- The detailed description about the project can be found [here](https://drive.google.com/open?id=0B6cvaukIjPj5NUVWb0lETkVGZWhBT2pCNEo1Mm1sM0hxSnY4)
-
+- For more details contact me @ [baleshwar.gvp@gmail.com](baleshwar.gvp@gmail.com)
 ---
 ### References -
 1.S.Chakrabarty and B. Bandyopadhyay , “Minimum Ultimate Band Design of Discrete Sliding Mode Control” , Asian journal of control 17 (5), pp. 1889-1897 , 2015 <br><br>
