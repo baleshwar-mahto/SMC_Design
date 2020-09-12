@@ -1,6 +1,7 @@
 #  Design of Sliding Mode Controller for Two-wheeled Mobile Robot - Path Tracking
 ---
-
+## About 
+This project was done as a Design Innovation Center ( DIC ) Winter Intern under the guidance of [Dr Sohom Chakrabarty](https://www.iitr.ac.in/~EE/Sohom_Chakrabarty) at the Control and Robotics Laboratory, Department of Electrical Engineering , Indian Institute of Technology ( IIT ) Roorkee .Reserach Scholar Mr Pushkar Prakash Arya of the Department of Electrical Engineering , grealty helped me in this project .
 ## What is Sliding Mode Control(SMC) ?
 Sliding mode control (SMC) is a nonlinear control technique featuring remarkable properties of accuracy, robustness, and easy tuning and implementation.SMC systems are designed to drive the system states onto a particular surface in the state space, named sliding surface. Once the sliding surface is reached, sliding mode control keeps the states on the close neighbourhood of the sliding surface.Hence the sliding mode control is a two part controller design. The first part involves the design of a sliding surface so that the sliding motion satisfies design specifications. The second is concerned with the selection of a control law that will make the switching surface attractive to the system state .
 
