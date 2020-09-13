@@ -1,4 +1,4 @@
-#  Design of Sliding Mode Controller for Two-wheeled Mobile Robot - Path Tracking
+#  Design of Discrete-time Sliding Mode Controller for Two-wheeled Mobile Robot - Path Tracking
 ---
 ![Screenshot](new_poster.jpg)
 ## About 
