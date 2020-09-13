@@ -1,5 +1,6 @@
 #  Design of Sliding Mode Controller for Two-wheeled Mobile Robot - Path Tracking
 ---
+![Screenshot](new_poster.jpg)
 ## About 
 This project was done as a Design Innovation Center ( DIC ) Winter Intern under the guidance of [Dr Sohom Chakrabarty](https://www.iitr.ac.in/~EE/Sohom_Chakrabarty) at the Control and Robotics Laboratory, Department of Electrical Engineering , Indian Institute of Technology ( IIT ) Roorkee .Reserach Scholar Mr Pushkar Prakash Arya of the Department of Electrical Engineering , grealty helped me in this project .
 ## What is Sliding Mode Control(SMC) ?
